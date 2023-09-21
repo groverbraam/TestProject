@@ -1,0 +1,14 @@
+/Users/christhompson/dev/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/Users/christhompson/dev/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/christhompson/dev/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/christhompson/dev/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/christhompson/dev/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/christhompson/dev/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
